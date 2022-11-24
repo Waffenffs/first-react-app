@@ -7,7 +7,7 @@ const HeaderStyling = {
 }
 
 const LiStyling = {
-    paddingRight: "20px",
+    marginRight: "2rem",
     color: "white",
     marginTop: "10px"
 }
